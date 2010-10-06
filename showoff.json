@@ -1,1 +1,7 @@
-{ "name": "Intro to Vim", "sections": [ {"section":"intro"} ]}
+{ 
+   "name": "Intro to Vim", 
+   "sections": [
+      { "section": "title" },
+      { "section": "intro" }
+   ]
+}
