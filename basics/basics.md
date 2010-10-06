@@ -1,6 +1,10 @@
 !SLIDE
-# MODEs
-
+# Modes
+ 
+!SLIDE bullets incremental
+ * insert
+ * command
+ * select
 
 !SLIDE smbullets incremental
 # Movement
