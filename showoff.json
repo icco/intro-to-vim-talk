@@ -1,8 +1,9 @@
 { 
    "name": "Intro to Vim", 
    "sections": [
-      { "section": "title" },
-      { "section": "intro" },
-      { "section": "basics" }
+      { "section": "title"   },
+      { "section": "intro"   },
+      { "section": "basics"  },
+      { "section": "closing" }
    ]
 }
