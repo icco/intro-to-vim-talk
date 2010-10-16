@@ -39,5 +39,38 @@
 !SLIDE
 # modelines
 ## `set modeline`
-## `# vim: set filetype=sh:`
+## `vim: set filetype=sh:`
 ### check for a modeline
+
+!SLIDE bullets
+# keybindings
+
+ * vmap is for visual mode
+ * imap is for insert mode 
+ * nmap is for command mode
+ * nore - don't check for recursive mappings.
+
+!SLIDE small
+# keybinding examples
+
+## Because we like our line numbers sometimes...
+### `:nnoremap <C-N><C-N> :set invnumber<CR>`
+
+## But we don't always wanna wrap
+### `:nnoremap <C-w><C-w> :set invwrap<CR>`
+ 
+## And all the cool kids need to paste
+### `:nnoremap <C-p><C-p> :set invpaste<CR>`
+ 
+## Use the space key to open and close code folds
+### `:vnoremap <space> zf<CR>`
+### `:nnoremap <space> zd<CR>`
+
+!SLIDE command
+## tabs and workspaces
+
+# :vs, :sp, ctrl + w
+
+# :tabnew, :tabclose, :tabn, :tabp
+
+### But seriously, let me just show you...
