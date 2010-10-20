@@ -53,7 +53,7 @@
 
  * directions
  * numbers
- * characters (`d`, `w`)
+ * characters (`d`, `w`, `$`, `e`)
 
 !SLIDE command
 ## Paste

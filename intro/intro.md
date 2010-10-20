@@ -5,10 +5,13 @@
  * available on most operating systems
  * incredibly powerful
 
-!SLIDE
+!SLIDE center
 # Warning:
 ## Vim is meant to be used the way you feel natural doing it.
 ### What works for me may not work for you.
+
+
+AKA: There is a lot I don't know, and 40 Billion ways to do everything.
 
 !SLIDE smbullets
 # How to Install?
@@ -28,6 +31,7 @@
 
 !SLIDE bullets
 # How to get help?
- * [Vim Doc](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
  * `vimtutor`
+ * [Vim Doc](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
+ * [Cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
  * Google.
